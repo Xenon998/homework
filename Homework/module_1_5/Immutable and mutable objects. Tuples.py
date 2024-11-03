@@ -1,5 +1,5 @@
 # Part 1
-immutable_var = (123, True, "string")
+immutable_var = (1, True, "apple")
 print(immutable_var)
 
 # Part 2
